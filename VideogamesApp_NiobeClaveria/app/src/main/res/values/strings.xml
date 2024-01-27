@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VideogamesApp_NiobeClaveria</string>
+    <string name="fechaLanzamiento">Fecha de lanzamiento: </string>
+    <string name="platforms">Plataformas:</string>
+    <string name="rating">Valoración:</string>
+</resources>
